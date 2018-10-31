@@ -4,6 +4,7 @@
   "description": "Auto good night to girlfriend",
   "main": "index.js",
   "scripts": {
+    "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
